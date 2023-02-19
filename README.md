@@ -10,7 +10,8 @@ PROJECT URL: https://devhire-project.netlify.app/
 
 On your Editor Terminal, you can run:
 
-### `git clone https://github.com/vickzil/DevHire-project.git`
+### `git clone https://github.com/mako116/divhire.git
+
 
 ### Installation
 
